@@ -49,7 +49,7 @@ $ npm run dev
 
 Tools used in the construction of this project:
 
-- **[Vue](https://vuejs.org/)**
+- **[Vue.js](https://vuejs.org/)**
 - **[Vite](https://vitejs.dev/)**
 
 ---
